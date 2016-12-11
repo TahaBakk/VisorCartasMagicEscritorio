@@ -3,5 +3,24 @@
 }
 
 .text-area{
+    -fx-background-color: #7F7F7F;
+    -fx-text-fill: #076E55;
+    -fx-border-color: #076E55;
+    -fx-border-width: 2;
+}
+
+.list-cell{
+    -fx-background-color: #7F7F7F;
+}
+.list-cell:odd{
+    -fx-background-color: #ababab ;
 
 }
+
+.label {
+    -fx-font-size: 35pt;
+    -fx-text-fill: black;
+    -fx-opacity: 0.6;
+
+}
+
